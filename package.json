@@ -2,10 +2,18 @@
   "name": "simple-testing",
   "version": "1.0.0",
   "main": "simple-testing.js",
+  "scripts": {
+    "start": "web-dev-server"
+  },
   "repository": "https://github.com/rrbhayani/simple-testing.git",
   "author": "Ravi Bhayani <ravibhayani02@gmail.com>",
   "license": "MIT",
   "dependencies": {
     "lit": "^2.2.8"
+  },
+  "devDependencies": {
+    "@open-wc/building-rollup": "^2.0.1",
+    "@rollup/plugin-commonjs": "^22.0.1",
+    "@web/dev-server": "^0.1.32"
   }
 }
