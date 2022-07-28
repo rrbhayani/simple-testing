@@ -1,0 +1,11 @@
+{
+  "name": "simple-testing",
+  "version": "1.0.0",
+  "main": "simple-testing.js",
+  "repository": "https://github.com/rrbhayani/simple-testing.git",
+  "author": "Ravi Bhayani <ravibhayani02@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "lit": "^2.2.8"
+  }
+}
